@@ -1,0 +1,202 @@
+body {
+background:black;
+}
+.google {
+display: block;    
+margin: 0 auto;    
+padding-top 300px;
+float:center;
+margin-left:490px;
+margin-top:200px;
+}
+
+input{
+margin-left: 340px;
+margin-top: 20px;
+width: 570px;
+height: 35px;
+font-size: 14px;
+float:center;
+background:red;
+
+
+}
+
+#googsearch {
+margin-left: 490px;
+font-size: 13px;
+text-align: center;
+color:red;
+background:black;
+}
+
+#lucky {
+font-size: 13px;
+text-align: center;
+color:red;
+background:black;
+}
+
+button {
+margin-top: 30px;
+height: 35px;
+width: 135px;
+border:none;
+color: #737373;
+background: none;
+background-color: #f2f2f2;
+font-weight: 600;
+font-family: Arial;
+}
+
+nav {
+float: right;
+margin-top: -400px;
+display: inline;
+}
+
+#gmail {
+text-decoration: none;
+font-family: Arial;
+font-size: 13px;
+color: red;   
+}
+
+#images {
+text-decoration: none;
+font-family:Arial;
+font-size: 13px;
+color:red;
+padding-left: 10px;
+}
+
+#grid {
+display: inline-block;
+position: relative;
+padding-left: 10px;
+padding-right: 10px;
+top: 7px;  
+}
+
+#signin {
+background-color:red;
+color:white;
+width:70px;
+border-radius:3px;    
+font-size: 13px;
+padding-left: 10px;
+margin-right: 20px;
+height: 30px;
+}
+
+.mic {
+display: inline-block;
+margin-left: -35px;
+top: 7px;
+position: relative;
+}
+
+footer {
+background-color: red;
+position: absolute;
+right: 0;
+bottom: 0;
+left: 0;
+width: 100%;
+height: 40px;    
+font-family: arial;
+font-size: 13px;
+border-top: 1px solid #e6e6e6;
+
+}
+
+#advertising {
+float: left;
+margin-left: 30px;
+text-decoration: none;
+margin-top: 13px;
+color: black;
+
+}
+
+#business {
+float: left;
+margin-left: 30px;
+text-decoration: none;
+margin-top: 13px;
+color: black;
+}
+
+#about {
+float: left;
+margin-left: 30px;
+text-decoration: none;
+margin-top: 13px;
+color: black;
+}
+
+#settings {
+float: right;
+margin-right: 30px;
+text-decoration: none;
+margin-top: 13px;
+color: black;
+} 
+#terms {
+float: right;
+margin-right: 30px;
+text-decoration: none;
+margin-top: 13px;
+color: black;
+}
+
+#privacy {
+float: right;
+margin-right: 30px;
+text-decoration: none;
+margin-top: 13px;
+color: black;
+}
+
+#gmail:hover {
+text-decoration: underline;
+background-color:lawngreen;
+}
+#images:hover {
+text-decoration: underline;
+background-color:lawngreen;
+}
+#advertising:hover {
+text-decoration: underline;
+background-color:lawngreen;
+}
+#business:hover {
+text-decoration: underline;
+background-color:lawngreen;
+}
+#about:hover {
+text-decoration: underline;
+background-color:lawngreen;
+}
+#settings:hover {
+text-decoration: underline;
+background-color:lawngreen;
+}
+#terms:hover {
+text-decoration: underline;
+background-color:lawngreen;
+}
+#privacy:hover {
+text-decoration: underline;
+background-color:lawngreen;
+
+}
+
+
+
+
+
+
+
+
+
